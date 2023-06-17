@@ -1,3 +1,5 @@
 return {
-	modules = {},
+	modules = {
+		"basic",
+	},
 }

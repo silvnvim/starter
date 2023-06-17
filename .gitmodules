@@ -1,0 +1,3 @@
+[submodule "modules/basic"]
+	path = modules/basic
+	url = https://github.com/silvnvim/basic
