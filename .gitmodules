@@ -10,3 +10,6 @@
 [submodule "modules/no_arrow_movement"]
 	path = modules/no_arrow_movement
 	url = https://github.com/silvnvim/no_arrow_movement_module
+[submodule "modules/better_window_management"]
+	path = modules/better_window_management
+	url = https://github.com/silvnvim/better_window_management_module
