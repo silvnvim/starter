@@ -7,3 +7,6 @@
 [submodule "modules/telescope"]
 	path = modules/telescope
 	url = https://github.com/silvnvim/telescope_module
+[submodule "modules/no_arrow_movement"]
+	path = modules/no_arrow_movement
+	url = https://github.com/silvnvim/no_arrow_movement_module

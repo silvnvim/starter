@@ -3,5 +3,6 @@ return {
 		"basic",
 		"eye_candy",
         "telescope",
+        "no_arrow_movement",
 	},
 }
