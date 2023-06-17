@@ -3,6 +3,7 @@ return {
 
 	modules = {
 		"basic",
+        "colorschemes",
 		"eye_candy",
         "telescope",
         "no_arrow_movement",
