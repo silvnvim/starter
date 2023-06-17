@@ -1,4 +1,6 @@
 return {
+    colorscheme = "catppuccin-mocha",
+
 	modules = {
 		"basic",
 		"eye_candy",
