@@ -4,3 +4,6 @@
 [submodule "modules/eye_candy"]
 	path = modules/eye_candy
 	url = https://github.com/silvnvim/eye_candy_module
+[submodule "modules/telescope"]
+	path = modules/telescope
+	url = https://github.com/silvnvim/telescope_module
