@@ -13,3 +13,6 @@
 [submodule "modules/better_window_management"]
 	path = modules/better_window_management
 	url = https://github.com/silvnvim/better_window_management_module
+[submodule "modules/colorschemes"]
+	path = modules/colorschemes
+	url = https://github.com/silvnvim/colorschemes_module
